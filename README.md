@@ -39,7 +39,7 @@ Free & Easy to use Discord Status API !
 curl https://discordstatus.xyz/api/users/1208329627391627284
 ```
 
-## Api Response 
+## API Response
 
 ```json
 {
@@ -147,3 +147,11 @@ curl https://discordstatus.xyz/api/users/1208329627391627284
 }
 ```
 
+## Are You Lazy ?
+
+1. **Join our Discord server**: [StatusAPI Discord](https://discord.gg/UJ7UaWQgd7)
+2. **Go To The Search Page**: [Search Page](https://discordstatus.xyz)
+3. **Enter The User ID**: Input you or the user u want to search discord user id.
+4. **Wait For The Results**: The user must be in the discord server to obtain their infor so please make sure they are.
+
+### Created and Developed by [connector](https://discord.com/users/1208329627391627284)
